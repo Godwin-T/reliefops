@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: reliefops-tracker
-          image: freshinit/reliefops-tracker:latest
+          image: freshinit/reliefops-tracker:sha-a830cbb
           ports:
             - containerPort: 3000
           env:
