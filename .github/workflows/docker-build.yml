@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     env:
-      IMAGE_NAME: godwin/reliefops-tracker
+      IMAGE_NAME: freshinit/reliefops-tracker
 
     steps:
       - name: Checkout
